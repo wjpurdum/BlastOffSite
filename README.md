@@ -25,3 +25,9 @@ You and your development squad will fork this repository, claim issues, work on 
 6. Push (publish) your feature branch to your fork on GitHub.
 
 7. Create a pull request for the core contributors to review.
+
+##Guidelines
+
+- Sort issues by age and work on older ones first. This way they will go from easy -> hard.
+- There are several issue "themes". Try to do one issue from each theme rather than all from the same theme.
+- For each issue, let a different squad member "drive".
