@@ -16,12 +16,12 @@ You and your development squad will fork this repository, claim issues, work on 
 
 2. Claim an issue for your squad.
 
-3. Create a new feature branch for this issue in the GitHub app.
+3. Create a new feature branch (**from master**) for this issue in the GitHub app.
 
 4. Fix the issue.
 
 5. Commit the fix.
 
-6. Push (publish) your feature branch.
+6. Push (publish) your feature branch to your fork on GitHub.
 
 7. Create a pull request for the core contributors to review.
