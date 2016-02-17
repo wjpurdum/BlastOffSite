@@ -20,7 +20,7 @@ You and your development squad will fork this repository, claim issues, work on 
 
 4. Fix the issue.
 
-5. Commit the fix.
+5. Commit the fix. Reference the issue number in the commit message.
 
 6. Push (publish) your feature branch to your fork on GitHub.
 
